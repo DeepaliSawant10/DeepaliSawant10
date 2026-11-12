@@ -1,7 +1,13 @@
-## Hi, I'm Deepali Sawant 👋
+<div align="center">
+  <h1>👋 Hi, I'm Deepali Sawant</h1>
+  <h3>Software QA Engineer</h3>
+  <p>UI Testing • API Testing • Test Automation</p>
+  <p><em>Find Bugs • Improve Quality • Build Better</em></p>
+</div>
 Software QA Engineer | Test Automation | API & Backend Testing
 I enjoy finding bugs before users do, making testing more efficient, and helping teams ship reliable software.
 <hr style="height:3px;border:none;background-color:#3B82F6;">
+![About Me](https://img.shields.io/badge/About_Me-2563EB?style=for-the-badge)
 👩‍💻 About Me
 - 🎓 Master's in Computer Science from Pace University
 - 🧪 5+ years of experience in Software Quality Assurance
