@@ -1,7 +1,7 @@
-## Hi there 👋
-Hi, I'm Deepali Sawant 👋
+## Hi, I'm Deepali Sawant 👋
 Software QA Engineer | Test Automation | API & Backend Testing
 I enjoy finding bugs before users do, making testing more efficient, and helping teams ship reliable software.
+<hr style="height:3px;border:none;background-color:#3B82F6;">
 👩‍💻 About Me
 - 🎓 Master's in Computer Science from Pace University
 - 🧪 5+ years of experience in Software Quality Assurance
@@ -10,6 +10,7 @@ I enjoy finding bugs before users do, making testing more efficient, and helping
 - ⚙️ Worked with Selenium, Playwright, Jenkins, and CI/CD workflows
 - 🤝 Enjoy collaborating with developers, product teams, and business stakeholders
 - 🌱 Always learning and exploring better ways to automate and improve testing
+<hr style="height:3px;border:none;background-color:#3B82F6;">
 🛠️ Tech Stack
 Languages & Databases
 💼 Experience Highlights
@@ -27,5 +28,6 @@ Languages & Databases
 - API and Backend Testing
 - CI/CD and Continuous Testing
 - Building reliable, maintainable test processes
+<hr style="height:3px;border:none;background-color:#3B82F6;">
 🤝 Let's Connect
 I'm always happy to connect with people working in QA, automation, and software engineering.
