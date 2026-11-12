@@ -7,7 +7,6 @@
 Software QA Engineer | Test Automation | API & Backend Testing
 I enjoy finding bugs before users do, making testing more efficient, and helping teams ship reliable software.
 <hr style="height:3px;border:none;background-color:#3B82F6;">
-![About Me](https://img.shields.io/badge/About_Me-2563EB?style=for-the-badge)
 👩‍💻 About Me
 - 🎓 Master's in Computer Science from Pace University
 - 🧪 5+ years of experience in Software Quality Assurance
